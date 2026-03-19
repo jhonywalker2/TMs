@@ -1,0 +1,4 @@
+0 feliz
+1 triste
+2 flexeando
+3 me fui
